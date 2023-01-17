@@ -1,0 +1,16 @@
+C:\Users\fanto\Desktop\BK_Test\Messenger\Messenger\bin\Debug\net5.0\Server.exe
+C:\Users\fanto\Desktop\BK_Test\Messenger\Messenger\bin\Debug\net5.0\Server.deps.json
+C:\Users\fanto\Desktop\BK_Test\Messenger\Messenger\bin\Debug\net5.0\Server.runtimeconfig.json
+C:\Users\fanto\Desktop\BK_Test\Messenger\Messenger\bin\Debug\net5.0\Server.runtimeconfig.dev.json
+C:\Users\fanto\Desktop\BK_Test\Messenger\Messenger\bin\Debug\net5.0\Server.dll
+C:\Users\fanto\Desktop\BK_Test\Messenger\Messenger\bin\Debug\net5.0\ref\Server.dll
+C:\Users\fanto\Desktop\BK_Test\Messenger\Messenger\bin\Debug\net5.0\Server.pdb
+C:\Users\fanto\Desktop\BK_Test\Messenger\Messenger\obj\Debug\net5.0\Server.csprojAssemblyReference.cache
+C:\Users\fanto\Desktop\BK_Test\Messenger\Messenger\obj\Debug\net5.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fanto\Desktop\BK_Test\Messenger\Messenger\obj\Debug\net5.0\Server.AssemblyInfoInputs.cache
+C:\Users\fanto\Desktop\BK_Test\Messenger\Messenger\obj\Debug\net5.0\Server.AssemblyInfo.cs
+C:\Users\fanto\Desktop\BK_Test\Messenger\Messenger\obj\Debug\net5.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\fanto\Desktop\BK_Test\Messenger\Messenger\obj\Debug\net5.0\Server.dll
+C:\Users\fanto\Desktop\BK_Test\Messenger\Messenger\obj\Debug\net5.0\ref\Server.dll
+C:\Users\fanto\Desktop\BK_Test\Messenger\Messenger\obj\Debug\net5.0\Server.pdb
+C:\Users\fanto\Desktop\BK_Test\Messenger\Messenger\obj\Debug\net5.0\Server.genruntimeconfig.cache

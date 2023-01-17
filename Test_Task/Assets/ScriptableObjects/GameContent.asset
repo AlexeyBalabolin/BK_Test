@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed77741efb945f44c8d4e28095fe96aa, type: 3}
+  m_Name: GameContent
+  m_EditorClassIdentifier: 
+  MenuPrefab: {fileID: 2512438480634582574, guid: 485705cce4afd7a449e5d8dc2a82af05, type: 3}
+  PrimitiveTypes: 0000000003000000020000000000000003000000
+  SelectedMaterial: {fileID: 2100000, guid: 72befbf7b073e944aa2bf681867f65f1, type: 2}
+  DeselectedMaterial: {fileID: 2100000, guid: 22a4c2cb0e9d1324d8fe86388c2e01d6, type: 2}

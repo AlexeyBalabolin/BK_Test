@@ -1,0 +1,12 @@
+C:\Users\fanto\Desktop\Calculator\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll
+C:\Users\fanto\Desktop\Calculator\CalculatorLibrary\bin\Debug\CalculatorLibrary.pdb
+C:\Users\fanto\Desktop\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.csprojAssemblyReference.cache
+C:\Users\fanto\Desktop\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\fanto\Desktop\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.dll
+C:\Users\fanto\Desktop\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb
+C:\Users\fanto\Desktop\BK_Test\Calculator\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll
+C:\Users\fanto\Desktop\BK_Test\Calculator\CalculatorLibrary\bin\Debug\CalculatorLibrary.pdb
+C:\Users\fanto\Desktop\BK_Test\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.csprojAssemblyReference.cache
+C:\Users\fanto\Desktop\BK_Test\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\fanto\Desktop\BK_Test\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.dll
+C:\Users\fanto\Desktop\BK_Test\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb
